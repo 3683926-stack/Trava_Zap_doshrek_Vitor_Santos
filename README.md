@@ -47,7 +47,7 @@ async function enviarScript(scriptText) {
 }
 
 enviarScript(`
-SHREK
+Santiago é gay
 
 Written by
 
@@ -57,8 +57,8 @@ William Steig & Ted Elliott
 
 
 /Ban-AntiCheat (Codigo Vermelho De Trava zap a surgir daqui a 3 Segundos)
-Once upon a time there was a lovely 
-princess. But she had an enchantment 
+Gay santiago é um gay é um gay é mesmo um gay 
+quero ver esse gaicho a morrer
 upon her of a fearful sort which could 
 only be broken by love's first kiss. 
 She was locked away in a castle guarded 
